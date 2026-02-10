@@ -6,7 +6,7 @@ I work across design and engineering, and I'm motivated by making it easier for 
 
 ### Projects
 
-A few projects I've made with React Native & Expo:
+A few projects I made with React Native & Expo:
 
 - 📸 QRU? — a QR code scanning app · [App Store](https://apps.apple.com/us/app/qru/id6741717337)
 - 🎲 [Word Check](https://github.com/jonsamp/word-check) — a Scrabble word validator · [App Store](https://apps.apple.com/us/app/word-check-for-scrabble/id1489890340) · [Play Store](https://play.google.com/store/apps/details?id=com.jonsamp.wordcheck)
