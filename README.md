@@ -8,9 +8,9 @@ I work across design and engineering, and I'm motivated by making it easier for 
 
 A few projects I've made with React Native & Expo:
 
-- 📸 [QRU?](https://github.com/jonsamp/qru) — a QR code scanning app
-- 🎲 [Word Check](https://github.com/jonsamp/word-check) — a Scrabble word validator
-- ☕ [Single Origin](https://github.com/jonsamp/single-origin-two) — a pour-over coffee timer
+- 📸 QRU? — a QR code scanning app · [App Store](https://apps.apple.com/us/app/qru/id6741717337)
+- 🎲 [Word Check](https://github.com/jonsamp/word-check) — a Scrabble word validator · [App Store](https://apps.apple.com/us/app/word-check-for-scrabble/id1489890340) · [Play Store](https://play.google.com/store/apps/details?id=com.jonsamp.wordcheck)
+- ☕ Single Origin — a pour-over coffee timer · [App Store](https://apps.apple.com/us/app/single-origin-coffee-timer/id1480168613)
 
 ### Links
 
